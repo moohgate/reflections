@@ -1,3 +1,7 @@
 I accidently remove this file in the middle of Lesson 2!!! :(
+w can you use the staging area to make sure you have one commit per logical change?
+I can check the difference between files in the staging area and those in the working directory or the repository before doing a commit.
+
+
 
 
