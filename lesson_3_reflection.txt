@@ -7,3 +7,6 @@ Because I may be working on a new changes or features that not yet ready to be s
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I can see what updates occur on the remote repository and test them in my machine. I can check whether my work is still compatible with the new updates.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It will be easier to start, no need to learn about Git and GitHub. But it will be harder to compare changes, merge, or try other features, harder to see others' work and try them out without losing my work.
+
