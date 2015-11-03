@@ -3,3 +3,7 @@ I may be out on a trip or other collaborator may want to add his commit to the p
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because I may be working on a new changes or features that not yet ready to be shared, still has bug, etc. If Git automatically pull changes to my local repository then I'll lose my work.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I can see what updates occur on the remote repository and test them in my machine. I can check whether my work is still compatible with the new updates.
+
