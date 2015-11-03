@@ -9,5 +9,8 @@ Branches would be helpful if I want to try adding new feature or making changes.
 How do the diagrams help you visualize the branch structure?
 It helps me in which commits commit a branch begin.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It will combine them together.
+
 
 
