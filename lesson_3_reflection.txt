@@ -10,3 +10,5 @@ I can see what updates occur on the remote repository and test them in my machin
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It will be easier to start, no need to learn about Git and GitHub. But it will be harder to compare changes, merge, or try other features, harder to see others' work and try them out without losing my work.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you want to try a new feature, add a functionality, etc but not sure if in the future still need the master to go back to. This way it's safer but more complicated to combine with the master when the trial is succesful. The other approach is to just work on the master but then it's hard to go back.
